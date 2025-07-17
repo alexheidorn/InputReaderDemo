@@ -44,3 +44,5 @@ function Object:__call(...)
   obj:new(...)
   return obj
 end
+
+return Object
