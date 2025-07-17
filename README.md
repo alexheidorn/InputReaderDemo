@@ -25,7 +25,7 @@ cd InputReaderDemo
 ```bash
 love .
 ```
-# 💡 If you’re on Windows, drag the folder onto the love.exe application.
+💡 If you’re on Windows, drag the folder onto the love.exe application.
 
 ## 🧪 Controls
 Action	Keyboard	Gamepad
