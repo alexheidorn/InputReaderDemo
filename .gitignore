@@ -1,0 +1,14 @@
+*.love
+*.exe
+*.dll
+*.app
+*.zip
+.DS_Store
+Thumbs.db
+desktop.ini
+*.bak
+*.swp
+/love-release/
+/build/
+/bin/
+*.log
